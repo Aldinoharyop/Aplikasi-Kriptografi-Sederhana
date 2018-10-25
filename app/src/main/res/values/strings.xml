@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aplikasi Kriptografi</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">SubsPer</string>
+    <string name="title_dashboard">PerSubs</string>
+    <string name="Deskripsi">
+        Aplikasi Kriptografi \n Sebagai Syarat Kelulusan Ujian Tengah Semester V \n
+    Program Studi S1 Sistem Infromasi, Universitas Airlangga ,Surabaya \n
+        Oleh : \n
+        Aldino Haryo Pandu (081611633001)\n
+        Maulia Mutiratanti Agus (081611633014)
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
